@@ -1,5 +1,6 @@
 <template>
   <h3>{{ name }}</h3>
+  <div>:)</div>
 </template>
 
 <script>
